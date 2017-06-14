@@ -1,0 +1,47 @@
+body  {
+    background-color: beige;  
+}
+
+sup  {
+    font-size: 0.8rem;
+}
+#subheader {
+    font-style: italic;
+    font-size: 0.75rem;
+    text-align: right;
+}
+ol li  {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+img  {
+    height: 30rem;
+    width: 50rem;
+    margin: 1rem 10rem 0rem;
+    border: 2rem solid blue;
+    padding: 1rem;
+    
+    
+}
+
+figcaption  {
+    font-style: italic;
+    text-align: center;
+    font-size: 0.75rem;
+}
+
+#jm  {
+    font-weight: bold;
+    color: yellow;
+}
+
+ul li  {
+    font-size: 16px;
+    text-align: left;
+}
+
+footer  {
+    margin: 6rem auto;
+}
