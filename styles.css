@@ -1,3 +1,4 @@
+
 body  {
     background-color: beige;  
 }
@@ -10,11 +11,12 @@ sup  {
     font-size: 0.75rem;
     text-align: right;
 }
-ol li  {
+.name  {
     text-align: center;
     font-size: 2rem;
     font-weight: bold;
 }
+
 
 img  {
     height: 30rem;
@@ -32,6 +34,7 @@ figcaption  {
     font-size: 0.75rem;
 }
 
+/*apparently id's don't work inline*/
 #jm  {
     font-weight: bold;
     color: yellow;
